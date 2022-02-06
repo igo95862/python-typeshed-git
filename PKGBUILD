@@ -1,6 +1,6 @@
 # Maintainer: igo95862
 pkgname='python-typeshed-git'
-pkgver=r5417.950cff21f
+pkgver=r5647.8cb1518bc
 pkgrel=1
 pkgdesc="Python typing stubs"
 arch=('any')
